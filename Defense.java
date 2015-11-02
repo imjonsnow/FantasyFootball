@@ -11,6 +11,7 @@ public class Defense {
 	public double passingYardsAllowed;
 	public double rushingYardsAllowed;
 	public double kickTDs;
+	public double homefieldAdvantage;
 	
 	//initialize weights
 	public double w1;
